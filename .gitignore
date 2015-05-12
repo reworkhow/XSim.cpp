@@ -1,0 +1,4 @@
+.DS_Store
+.ipynb_checkpoint
+.ipython_checkpoints*
+*checkpoints.ipynb
