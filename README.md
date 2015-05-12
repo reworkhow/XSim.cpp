@@ -1,6 +1,7 @@
 # XSim
 
 XSim is a fast and user-friendly tool to simulate sequence data and complicated pedigree structures
+[A Julia version of XSim is available here.](https://github.com/reworkhow/XSim.jl)
 
 ####Features
 
