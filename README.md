@@ -1,4 +1,4 @@
-# XSim ( C++ )
+# XSim (C++)
 
 >[A Julia version of XSim, which is more **user-friendly**, is available here.](https://github.com/reworkhow/XSim.jl)
 
